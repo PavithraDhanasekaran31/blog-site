@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog Site</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation Menu -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+    </nav>
+
+    <!-- Home Page Content -->
+    <main>
+        <h1>Welcome to Our Blog</h1>
+        <p>This is a sample blog about [Your Topic Here].</p>
+        <img src="images/blog1.jpg" alt="Blog Image 1">
+        <h2>Latest Article</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <img src="images/blog2.jpg" alt="Blog Image 2">
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>Authors: Team XYZ</p>
+        <p>Contact: fakeemail@example.com</p>
+        <p>Project: My Blog Site</p>
+    </footer>
+</body>
+</html>
